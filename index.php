@@ -28,7 +28,7 @@
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td><p><img src="https://denimology.com/wp-content/uploads/2021/02/closmain2.jpg" alt="box" width="100" height="100" hspace="10" align="left" class="imgleft" title="box" /></p></td>
+        <td><p><img src="img/closmain2.jpg" alt="box" width="100" height="100" hspace="10" align="left" class="imgleft" title="box" /></p></td>
         <td><p><img src="img/Jeans.jpg" alt="box" width="100" height="100" hspace="10" align="left" class="imgleft" title="box" /></p></td>
         <td><p><img src="img/asd.jpg" alt="box" width="100" height="100" hspace="10" align="left" class="imgleft" title="box" /></p></td>
       </tr>
