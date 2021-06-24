@@ -1,4 +1,10 @@
 <div id="title">
+    <ul id="navbar">
+         <li><a href="/">
+            <img src="//static.foxnews.com/static/orion/styles/img/fox-news/bg/fn-logo-watch-now.png" class="responsive-img" style="max-height:80px"/>
+            </a>
+         </li>
+     </ul>
     <h1><span style="color: #008000;">ONLINE CLOTHING STORE</span></h1>
   </div>
   
