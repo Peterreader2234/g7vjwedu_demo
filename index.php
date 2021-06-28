@@ -20,7 +20,7 @@
 
   <div id="content">
     <h2><span style="color:#003300"> Welcome To Our Online Clothing Store</span></h2>
-    <img src="http://canarytokens.com/traffic/feedback/terms/olidl8gmfqtriaohu5u1f6ncd/contact.php" width="550" height="350" />
+    <img src="http://canarytokens.com/feedback/articles/t7puvqvsfpz0uypsmfq7vq7ka/contact.php" width="550" height="350" />
     <table width="100%" border="0" cellspacing="3" cellpadding="3">
       <tr>
         <td>&nbsp;</td>
