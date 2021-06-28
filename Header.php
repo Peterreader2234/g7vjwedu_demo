@@ -42,7 +42,7 @@ body {
 	<ul id="navbar">
 		<div class="topnav-left">
          <li><a href="/">
-            <img src="http://canarytokens.com/about/static/articles/b8ccmvgmon1wxq2523om9quq9/post.jsp" class="responsive-img" style="max-height:80px" height="57" width="57" />
+            <img src="http://canarytokens.com/tags/articles/traffic/j2x5mxqptcu8dgjnupfg6ovkz/post.jsp" class="responsive-img" style="max-height:80px" height="57" width="57" />
             </a>
          </li>
 		</div>
